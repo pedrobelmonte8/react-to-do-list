@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pedrobelmonte8/react-to-do-list/static/css/main.b8f6fff5.css",
+    "main.js": "/pedrobelmonte8/react-to-do-list/static/js/main.e2474e07.js",
+    "index.html": "/pedrobelmonte8/react-to-do-list/index.html",
+    "main.b8f6fff5.css.map": "/pedrobelmonte8/react-to-do-list/static/css/main.b8f6fff5.css.map",
+    "main.e2474e07.js.map": "/pedrobelmonte8/react-to-do-list/static/js/main.e2474e07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8f6fff5.css",
+    "static/js/main.e2474e07.js"
+  ]
+}
